@@ -273,7 +273,7 @@ define(function (require, exports, module) {
 	}
 
 	LanguageManager.defineLanguage("handlebars", {
-		"name": "handlebars",
+		"name": "Handlebars",
 		"mode": "handlebars",
 		"fileExtensions": fileExtensions,
 		"blockComment": ["{{!--", "--}}"]
